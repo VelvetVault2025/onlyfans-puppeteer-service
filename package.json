@@ -1,0 +1,13 @@
+{
+  "name": "onlyfans-puppeteer-service",
+  "version": "1.0.0",
+  "description": "Node.js service for OnlyFans browser automation using Puppeteer",
+  "type": "module",
+  "dependencies": {
+    "puppeteer": "^21.5.2",
+    "@sparticuz/chromium": "^119.0.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
